@@ -6,7 +6,7 @@ import json, os
 # =========================
 # CONFIG
 # =========================
-TOKEN = "8057747412:AAFiqeMJvSIoLU-gSfyq3QN6Sj8vd-hs7aY"  # <-- paste your BotFather token
+TOKEN = "8057747412:AAHP8Uyu5bzBW9pxyfyJoltm3Wnp63yttIY"  # <-- paste your BotFather token
 ADMIN_USERNAME = "@Rugcryptadmin"
 WALLET_ADDRESS = "8biE1yocuwo6JVstyFzab9qjcUqc8UmqatZTGCKh9mmf"
 DATA_FILE = "users.json"
@@ -270,4 +270,5 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
+
     main()
